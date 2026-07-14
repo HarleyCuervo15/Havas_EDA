@@ -27,7 +27,7 @@ sns.set_theme(style="whitegrid")
 # MARCA (Tigo-Millicom / CSA)
 # ============================================================================
 CLIENTE = "Tigo – Millicom"
-LOGO_PATH = "assets/logo.png"       # coloca aquí el logo oficial del cliente
+LOGO_PATH = "logo.png"       # coloca aquí el logo oficial del cliente
 NAVY = "#00263A"
 BLUE = "#0088CE"
 RED = "#E4002B"
